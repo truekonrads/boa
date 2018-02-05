@@ -31,6 +31,6 @@ In reality, only the "udetails.oab" is supported.
 
 # Why "boa"
 
-*@antimatter15: bteedubs mad props to mah bro guillermo for coming up with da name. much clevarr. because it's like python, and boa constrictor and stuff anagram of oab
+*@antimatter15: bteedubs mad props to mah bro guillermo for coming up with da name. much clevarr. because it's like python, and boa constrictor and stuff anagram of oab*
 
-*wow.
+*wow.*
