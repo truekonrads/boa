@@ -179,4 +179,4 @@ if __name__ == '__main__':
             if len(remains) > 0:
                 raise "This record contains unexpected data at the end: " + remains
 
-            json_out.write(json.dumps(rec) + '\n')
+            json_out.write(json.dumps(rec, ensure_ascii=False) + '\n')
